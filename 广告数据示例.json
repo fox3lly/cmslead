@@ -1,0 +1,825 @@
+{"status": true,"data": [
+	{"pdps": "PDPS000000025852",
+		"position": "t01-1-1",
+		"params": {
+			"type": "text",		/**文字链(必填)*/
+			"text": "随碟附送地方",	/*文本(必填)*/
+			"link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+			"color": "red"   	/*颜色(可选)*/
+		}
+	},
+	{"pdps":"PDPS000000025852",
+		"params":{
+			"type":"keyword",/**页面搜索框需存在adsdefault="true" 自定义属性*/
+			"text":"远洋天地地产"   /*文本(可选)*/
+		}
+	},
+	{"pdps": "PDPS000000025854",
+		"position":"t03-1-1-1",
+		"params": {
+			"type":"lunxunbanner",/**轮巡通栏*/
+			"src": "http://d1.leju.com/201111/16/371039_xsw20111116.swf",
+			"width": 950,
+			"height": "70",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025854",
+		"position":"t04-1-1-1",
+		"params": {
+			"type":"lunxunbanner",/**轮巡通栏*/
+			"src": "http://d3.sina.com.cn/201108/24/337397.swf",
+			"width": 950,
+			"height": "70",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025854",
+		"position":"t05-1-1-1",
+		"params": {
+			"type":"lunxunbanner",/**轮巡通栏*/
+			"src": "http://d1.leju.com/ia/2012/12/12/50c7f72ede490.swf",
+			"width": 950,
+			"height": "70",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},	
+    {"pdps": "PDPS000000025853",
+	    "position":"t01-1-1-1",
+	    "params": {
+	    	"type":"lunxianbanner",/**轮显通栏*/
+	    	"src":"http://d3.sina.com.cn/201108/24/337397.swf",
+		    "width": 950,
+		    "height": "70",
+		    "link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+	    }
+	},
+    {"pdps": "PDPS000000025853",
+	    "position":"t01-1-1-2",
+	    "params": {
+	    	"type":"lunxianbanner",/**轮显通栏*/
+	    	"src":"http://d1.leju.com/201111/16/371039_xsw20111116.swf",
+		    "width": 950,
+		    "height": "70",
+		    "link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+	    }
+	},
+    {"pdps": "PDPS000000025853",
+	    "position":"t01-1-1-3",
+	    "params": {
+	    	"type":"lunxianbanner",/**轮显通栏*/
+	    	"src":"http://d1.leju.com/201111/16/371039_xsw20111116.swf",
+		    "width": 950,
+		    "height": "70",
+		    "link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+	    }
+	},
+    {"pdps": "PDPS000000025852",
+		"position":"t01-1-1",
+		"params": {
+			"type": "banner",/**普通通栏(必填)*/
+			"src": "http://d3.sina.com.cn/201108/24/337397.swf",/**资源地址(必填)不带px*/
+			"width": 950,	 /**宽度(必填)不带px*/
+			"height": 70,	 /**高度(必填)不带px*/
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t03-1-1-1",
+		"params": {
+			"type": "lunbobanner",/**轮播通栏*/
+			"src": "http://d3.sina.com.cn/201108/24/337397.swf",
+			"width": "585",
+			"height": "70",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025853",
+		"position":"t03-1-1-2",
+		"params": {
+			"type": "lunbobanner",/**轮播通栏*/
+			"src": "http://d1.leju.com/201111/16/371039_xsw20111116.swf",
+			"width": "585",
+			"height": "70",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t05-1-1",
+		"params": [{
+			"type": "exbanner",/**扩展通栏*/
+			"src": "http://d1.leju.com/201111/25/374647_syfcsykztl-950x90-11-24.swf",
+			"width": 950,
+			"height": 90
+		},{
+			"src": "http://d1.leju.com/201111/25/374646_syfcsykztl-950x180-11-24.swf",
+			"width": 950,
+			"height": "180",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}]
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t01-1-1-1",
+		"params": {
+			"type":"fp",/**翻牌*/
+			"src": "http://d1.leju.com/201111/02/366578_lj-fs-160-90-1101.jpg",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025853",
+		"params": {
+			"type": "tearpage",/**撕页广告(必填)*/
+			"width":"200",	   /**宽度(必填)不带px*/
+			"height":"200",	   /**高度(必填)不带px*/
+			"params":{"wmode":"transparent"},  /**flash背景透明设置(写死)无需改变*/
+			"flashvars":{"src":"http://d1.leju.com/ia/1204/26/114354_3812.jpg"},/**广告图片地址(必填)*/
+			"src": "http://img.house.sina.com.cn/a/swf/sy.swf",/**广告撕页卷动效果flash地址(写死无需更改)*/
+			"zIndex":1, /**层级(数值类型:可选:默认9999)*/
+			"delay":1000 /**延时显示单位毫秒 数值类型(可选:默认1000)*/
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "plp",/**漂流瓶(必填)*/
+			"src": "http://d1.leju.com/201111/25/374781_plp.swf",/**广告资源(必填)*/
+			"bottom": 0,/*相对窗口底部偏移 数值类型 (选填默认为bottom:0)*/
+			"left": 150,/*相对窗口左侧偏移与right互逆 数值类型 (选填默认为left:0)*/
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=332613,391409,396720&cid=0,0,0&sid=393615&advid=13227&camid=63416&show=ignore&url=",
+			"closebtn":true,/*是否显示关闭:数值类型 (选填默认为false)*/
+			"zIndex": 1,/**层级:数值类型(选填:默认为9999)*/
+			"delay":1000/**延时显(选填:默认1000)*/
+		}
+	},
+	{"pdps":"PDPS000000025852",
+	    "params":{
+			"type":"lmt",	/**流媒体(必填)*/
+	        "src":["http://d1.leju.com/201112/21/383974_200200.swf","src/image/index2.png"],	/**广告资源(必填)*/
+	        "width":"200",	/**大图宽度(必填)*/
+	        "height":"200",	/**大图高度(必填)*/
+	        "mwidth":"20",	/**小图宽(必填)*/
+	        "mheight":"200",	/**小图高(必填)*/
+	        "mbottom":"150",	/**缩回侧栏时距底部距离(选填:默认5)*/
+	        "mright":"5",	/**缩回侧栏时距右侧距离(选填:默认5)*/
+	        "link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+	        "playtime":5	/**播放时间单位为秒(选填:默认为5)*/
+	    }
+     },
+     {"pdps": "PDPS000000008970",
+		"params": {
+			"type": "door",/**开门红*/
+			"src": ["http://d1.leju.com/201111/29/375460_szfcsydl.swf","http://d1.leju.com/201111/21/372699_100300.swf","http://127.0.0.1:8020/Advertising/src/image/950-300.jpg"],
+			"width": [60,100,950],
+			"height": "300",
+			"top": "20",
+			"link": ["http://www.baidu.com.cn", "http://www.baidu.com.cn", "http://www.baidu.com.cn"],
+			"zIndex":1,
+			"delay":1000
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "video",/**视窗广告(必填)*/
+			"flv": "http://127.0.0.1/zhuanti/video.flv",/**视窗广告(必填)*/
+			"imageurl":"http://127.0.0.1/zhuanti/videoImage.jpg",/**视窗广告(必填)*/
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+			"zIndex":1,  /**层级 数值类型(选填:默认9999)*/
+			"delay":1000 /**延时显示单位毫秒 数值类型(选填:默认2000)*/
+		}
+	},
+    {"pdps": "PDPS000000025859",
+		"params": {
+			"type": "miniDl",/*跨栏*/
+			"src": ["http://d1.leju.com/ia/1112/05/082310_5135.swf","http://d1.leju.com/ia/1112/05/082317_3034.swf","http://d1.leju.com/ia/1112/05/082304_4866.swf"],
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=338431,397392,402703&cid=0,0,0&sid=399754&advid=9939&camid=63086&show=ignore&url=http://sh.house.sina.com.cn/focus/2011shcxfh/?utm_source=PDPS000000018075",
+			"zIndex":1,/**层级 数值类型(选填:默认9999)*/
+			"delay":1000/**延时显示单位毫秒 数值类型(选填:默认9999)*/
+		}
+	},
+    {"pdps": "PDPS000000025852",
+		"params": {
+			"type":"doubledl",/**双边对联*/
+			"src": ["http://d1.leju.com/201112/11/379987_szfcsydl.swf","http://d1.leju.com/201112/11/379988_szfcsydl.swf"],
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+			"width":"100",/**宽 数值类型(必填)*/
+			"height":"300",/**高 数值类型(必填)*/
+			"top":0,/**两侧对联距浏览器顶部距离 数值类型(选填:默认100)*/
+			"left":0,/**左对联左偏移 数值类型(选填:默认5)*/
+			"right":70/**右对联右偏移 数值类型(选填:默认5)*/
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "focus",/**焦点图*/
+			"wrapId":"slideBox",
+			"src": "http://i0.sinaimg.cn/hs/462/2011/0115/U8940P62T462D19F17630DT20121119130916.jpg",
+			"width": "328",/**宽 数值类型(必填)*/
+			"height": "216",/**高 数值类型(必填)*/
+			"alt":"",/*图片描述 字符类型(选填)*/
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "baiduFocus",/**百度乐居焦点图*/
+			"wrapId":"focus_image",
+			"numberId":"focus_pages",
+			"src": "http://i0.sinaimg.cn/hs/462/2011/0115/U8940P62T462D19F17630DT20121119130916.jpg",
+			"width": "500",/**宽 数值类型(必填)*/
+			"height": "180",/**高 数值类型(必填)*/
+			"alt":"",/*图片描述 字符类型(选填)*/
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+    {"pdps": "PDPS000000025852",
+		"params": {
+			"type": "singledl",/**单边对联*/
+			"src": "http://d1.leju.com/201112/11/379987_szfcsydl.swf",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+			"width":"100",
+			"height":"300",
+			"top":350,/**两侧对联距浏览器顶部距离 数值类型(选填:默认100)*/
+			"right":0,/**对联右偏移 与left互斥 数值类型(选填:默认5)*/
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "window",/**弹窗广告*/
+			"width": "300",
+			"height": "250",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+			"order": ""
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "bg",/**背景广告*/
+			"src": "http://d1.leju.com/ia/1112/01/032155_1649.jpg",
+			"width": 950,/**宽度 数值类型 (必填) */
+			"height": "50",/**高度 数值类型 (必填) */
+			"text":"xxxxxx",/**文本 字符类型 (必填) */
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025854",
+	    "position":"t02-1-1",
+		"params": {
+			"type": "fullscreen",/**全屏广告*/
+			"src": "http://d1.leju.com/ia/1112/12/145610_5978.jpg",
+			"width": 950,/**宽度 数值类型 (必填) */
+			"height": "450",/**高度 数值类型 (必填) */
+			"closebtn":true,/**是否显示关闭 布尔类型 (选填:默认flase) */
+			"replay": true,/**是否显示重播按钮 布尔类型 (选填:默认flase) */
+			"delay":3000,/**延时显示 数值类型单位毫秒 (选填:默认1000) */
+		    	"playtime":8000,/**播放时间 数值类型单位毫秒 (选填:默认5000) */
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t03-2-1",
+		"params": [{
+			"type": "exfullscreen",/**变形全屏*/
+			"src": "http://d3.sina.com.cn/201108/24/337397.swf",
+			"width": 950,/**小图宽度 数值类型 (必填) */
+			"height": "70",/**小图高度 数值类型 (必填) */
+			"replay": true/**是否允许变形全屏出现重播按钮，布尔类型(选填:默认false)*/
+		},{
+			"src": "http://d1.leju.com/201112/12/380073_950450.jpg",
+			"width": 950,/**大图宽度 数值类型 (必填) */
+			"height": "450",/**大图高度 数值类型 (必填) */
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}]
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "bottomBanner", /*底部浮动通栏*/
+			"src": "http://d3.sina.com.cn/201108/24/337397.swf",
+			"width": 950,		/**宽度 数值类型 (必填) */
+			"height": "70",		/**高度 数值类型 (必填) */
+		    	"bottom": "0",		/**距离底部偏移 数值类型 (选填:默认0) */
+            		"zIndex": 1,		/**层级 数值类型 (选填:默认无层级) */
+			"closebtn":true,	/**是否显示关闭按钮 布尔类型 (选填:默认false) */
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		} 
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_bottom",/*底部显示的品牌视窗广告格式，最大数为6 此类型如果出现多个广告list_width list_src list_esrc list_link可以不同 其他属性应该相同 否则只取第一个广告的设置*/
+			"height": 40,/*广告高度 数值类型 (必填)*/
+			"width": 950,/*广告总宽度 数值类型 (必填)*/
+			"spacing": 8,/*广告块间距 数值类型 (选填:默认8)*/
+			"cheight": 70,/*弹出的广告高度 数值类型 (必填)*/
+			"cwidth": 950,/*弹出的广告宽度 数值类型 (必填)*/
+			"delay": 1000,/*鼠标移出延时隐藏 数值类型(选填:默认500)**/
+			"padding": "5",/*小广告与外框容器间的间距 字符类型(选填:默认"0") 注意padding必须为字符类型*/
+			"background": "#aaa",/*广告背景，字符类型(选填:默认"#aaa" 可参考css中此样式的写法 可写背景图片url*/
+			"list_width": 150,/*小广告块宽度 数值类型 (必填)*/
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",/*小广告块资源地址 字符类型(必填)*/
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",/*弹出广告地址 字符类型(必填)*/
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"/*广告连接 字符类型(必填)*/
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-2",
+		"params": {
+			"type": "ppsc_bottom",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-3",
+		"params": {
+			"type": "ppsc_bottom",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_bottom",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_bottom",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_bottom",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_top",/*顶部显示的品牌视窗广告格式，最大数为6 属性设置参考ppsc_bottom*/
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_top",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_top",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_top",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_top",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_top",
+			"height": 40,
+			"width": 950,
+			"spacing": 8,
+			"cheight": 70,
+			"cwidth": 950,
+			"delay": 1000,
+			"padding": "5",
+			"background": "#aaa",
+			"list_width": 150,
+			"list_src": "http://i2.sinaimg.cn/hs/2012/1015/U6913P62DT20121015113054.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "crown",/*皇冠*/
+			"pause": "2000",/*展开多少毫秒以后收起 数值类型 (选填:默认8000)*/
+			"src": "http://imgd.soufun.com/2012/10/09/bj/gebz/d21028cde1d44c8b80369cb84ae21db4.swf",/*中间通栏资源地址*/
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",/*点击链接*/
+			"height": 35,/*中间通栏高 数值类型 (必填)*/
+			"width": 950,/*中间通栏宽 数值类型 (必填)*/
+			"cheight": 450,/*两侧图片宽度 数值类型 (必填)*/
+			"cwidth": 170,/*两侧图片高度 数值类型 (必填)*/
+			"lsrc": "http://imgd.soufun.com/2012/09/27/bj/gebz/9b35b4497dfa491e867070e7f543f163.jpg",/*左图资源 字符类型 (必填)*/
+			"rsrc": "http://imgd.soufun.com/2012/09/27/bj/gebz/9b35b4497dfa491e867070e7f543f163.jpg",/*右图资源 字符类型 (必填)*/
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t02-1-1",
+		"params": {
+			"type": "ppsc_overlay",/*黄金条广告格式 属性设置参考ppsc_bottom 注意padding与backgroud必须为字符类型*/
+			"height": 60,/*小图高度*/
+			"width": 950,/*总宽度*/
+			"spacing": 10,/*小图间距*/
+			"cheight": 60,/*大图高*/
+			"cwidth": 715,/*大图宽*/
+			"delay": 2000,/*延时显示毫秒*/
+			"padding": "14 0 14 220",/*容器内间距*/
+			"background": "url(banner_950.90.jpg)",/*背景图*/
+			"list_width": 135,/*小图宽度*/
+			"list_src": "http://ww1.sinaimg.cn/thumbnail/7f9227c7gw1dyvrzd0k0pj.jpg",/*小图链接*/
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",/*大图链接*/
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"/*点击链接*/
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-2",
+		"params": {
+			"type": "ppsc_overlay",
+			"height": 60,
+			"width": 950,
+			"spacing": 10,
+			"cheight": 60,
+			"cwidth": 715,
+			"delay": 2000,
+			"padding": "14 0 14 220",
+			"background": "#ccc",
+			"list_width": 135,
+			"list_src": "http://ww1.sinaimg.cn/thumbnail/7f9227c7gw1dyvrzd0k0pj.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-3",
+		"params": {
+			"type": "ppsc_overlay",
+			"height": 60,
+			"width": 950,
+			"spacing": 10,
+			"cheight": 60,
+			"cwidth": 715,
+			"delay": 2000,
+			"padding": "14 0 14 220",
+			"background": "#ccc",
+			"list_width": 135,
+			"list_src": "http://ww1.sinaimg.cn/thumbnail/7f9227c7gw1dyvrzd0k0pj.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-4",
+		"params": {
+			"type": "ppsc_overlay",
+			"height": 60,
+			"width": 950,
+			"spacing": 10,
+			"cheight": 60,
+			"cwidth": 715,
+			"delay": 2000,
+			"padding": "14 0 14 220",
+			"background": "#ccc",
+			"list_width": 135,
+			"list_src": "http://ww1.sinaimg.cn/thumbnail/7f9227c7gw1dyvrzd0k0pj.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},{"pdps": "PDPS000000025852",
+		"position":"t02-1-5",
+		"params": {
+			"type": "ppsc_overlay",
+			"height": 60,
+			"width": 950,
+			"spacing": 10,
+			"cheight": 60,
+			"cwidth": 715,
+			"delay": 2000,
+			"padding": "14 0 14 220",
+			"background": "#ccc",
+			"list_width": 135,
+			"list_src": "http://ww1.sinaimg.cn/thumbnail/7f9227c7gw1dyvrzd0k0pj.jpg",
+			"list_esrc": "http://imgdn.soufun.com/2012/09/27/bj/gebz/fe55831e6bed4938816fdae5640af32b.jpg",
+			"list_link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t05-1-1",
+		"params": {
+			"type": "searchshow",/**搜索显示*/
+			"width": 340,		/**宽度 数值类型(必填)*/
+			"height": 90,		/**高度 数值类型(必填)*/
+			"img":"http://ww1.sinaimg.cn/thumbnail/43a39d58gw1dybacnujt8j.jpg",
+			"title":"123",		/**名称 字符类型(必填)*/
+			"link":"123",		/**连接 字符类型(必填)*/
+			"price":"123",		/**价格 字符类型(必填)*/
+			"tel":"123",		/**电话 字符类型(必填)*/
+			"telext":"123",		/**分机 字符类型(必填)*/
+            "needline":true, 	/**是否显示右侧分割线 布尔类型(选填:默认false)*/
+            "unitType":"元/平米", /**设定价格单位(选填:默认为元/平米)*/
+			"map_url":"http:\/\/map.house.sina.com.cn\/cs\/index.php?type=h&hid=89762"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"position":"t05-1-2",
+		"params": {
+			"type": "searchshow",/**搜索显示*/
+			"width": 340,
+			"height": 90,
+			"img":"http://ww1.sinaimg.cn/thumbnail/43a39d58gw1dybacnujt8j.jpg",
+			"title":"123",
+			"link":"123",
+			"price":"123",
+			"tel":"123",
+			"telext":"123",
+			"unitType":"元/套",
+            "needline":"false"
+		}
+	},
+	{"pdps":"PDPS000000025852",
+		    "params":{
+			"type":"floatads",/*双边*/
+		        "src":[
+	        		["http://d1.leju.com/ia/2012/10/11/50767232dad52.swf","http://d1.leju.com/ia/2012/11/06/5098741dd052eimg.jpg"],
+	        		["http://d1.leju.com/ia/2012/10/11/50767232dad52.swf","http://d1.leju.com/ia/2012/11/06/5098741dd052eimg.jpg"]
+			],				/*资源数组 (必填) src中第1个数组对应左对联的大小图 第2个对应右对联大小图 如果不需要显示大图则子数组中只有1个地址即可*/
+			"attributes":[[{
+				"width":"25", 		/*两个广告共同的小图宽度 数值类型/字符类型(必填)*/
+				"height":"300",		/*两个广告共同的小图高度 数值类型/字符类型(必填)*/
+				"top":"60",		/*两个广告共同的顶部距离 数值类型/字符类型(必填)*/
+				"left":"",		/*左广告左偏移 数值类型/字符类型(必填)*/
+				"right":"5",		/*右广告左偏移 数值类型/字符类型(必填)*/
+				"bottom":""		/*此属性对于双边无用 代码不会获取*/
+			},{
+				"width":"100",		/*两个广告共同的大图宽度 数值类型/字符类型(必填)*/
+				"height":"300",		/*两个广告共同的大图高度 数值类型/字符类型(必填)*/
+				"top":"60",		/*此属性与前面一致否则获取前一个的top*/
+				"left":"",		/*此属性与前面一致否则获取前一个的left*/
+				"right":"5",		/*此属性与前面一致否则获取前一个的right*/
+				"bottom":""		/*此属性对于双边无用 代码不会获取*/
+			}]],
+		        "link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+		        "delay":1000,			/*延时显示毫秒 数值类型(选填:默认1000) */
+		        "playtime":5,			/*此属性对于双边无用 */
+			"closebtn":true,		/*是否显示关闭按钮 布尔类型(选填:默认false) */
+			"zIndex":1,			/*层级 数值类型(为0或无此属性时默认9999) */
+			"eventType":"mouseover"		/*激活播放的事件单边,双边,跨栏,漂流瓶为mouseover和流媒体为click 字符类型(必填) 重要 用于区分不同类型广告*/
+		    }
+	},
+	{"pdps":"PDPS000000025852",
+		    "params":{
+			"type":"floatads",/*跨栏*/
+	 		"src":[ 
+					["http://d1.leju.com/ia/2012/10/11/50767232dad52.swf","http://d1.leju.com/ia/2012/11/06/5098741dd052eimg.jpg"],
+					["http://d1.leju.com/ia/2012/10/11/50767232dad52.swf","http://d1.leju.com/ia/2012/11/06/5098741dd052eimg.jpg"],
+					"http://d1.leju.com/ia/1112/05/082304_4866.swf"
+			],					/*资源数组 (必填) src中第1个数组对应左对联的大小图 第2个对应右对联大小图 第3个对应中间通栏的地址 如果不需要显示大图则子数组中只有1个地址即可*/
+			"attributes":[[{
+					"width":"25",		/*两侧广告共同的小图宽度 数值类型/字符类型(必填)*/
+					"height":"300",		/*两个广告共同的小图高度 数值类型/字符类型(必填)*/
+					"top":"60",		/*两侧广告共同的顶部距离 数值类型/字符类型(必填)*/
+					"left":"0",		/*左广告左偏移 数值类型/字符类型(必填)*/
+					"right":"5",		/*右广告左偏移 数值类型/字符类型(必填)*/
+					"bottom":""		/*此属性对于跨栏无用 代码不会获取*/
+				},{
+					"width":"100",		/*两个广告共同的大图宽度 数值类型/字符类型(必填)*/
+					"height":"300",		/*两个广告共同的大图高度 数值类型/字符类型(必填)*/
+					"top":"60",		/*此属性与前面一致否则获取前一个的top*/
+					"left":"",		/*此属性与前面一致否则获取前一个的left*/
+					"right":"5",		/*此属性与前面一致否则获取前一个的right*/
+					"bottom":""		/*此属性对于跨栏无用 代码不会获取*/
+				}],{
+					"width":"950",		/*中间广告的宽度 数值类型/字符类型(必填)*/
+					"height":"70",		/*中间广告的高度 数值类型/字符类型(必填)*/
+					"top":"20",		/*中间广告的顶部距离 数值类型/字符类型(必填)*/
+					"left":"",		/*此属性对于中间通栏无用 代码不会获取*/
+					"bottom":"",		/*此属性对于中间通栏无用 代码不会获取*/
+					"right":""		/*此属性对于中间通栏无用 代码不会获取*/
+			}],
+		        "link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+		        "delay":1000,				/*延时显示毫秒 数值类型(选填:默认1000) */
+		        "playtime":5,				/*中间通栏显示的时间 单位秒(选填:为0或无属性时默认5) */
+			"closebtn":true,			/*是否显示关闭按钮 布尔类型(选填:默认false) */
+			"zIndex":1,				/*层级 数值类型(为0或无此属性时默认9999) */
+			"eventType":"mouseover"			/*激活播放的事件单边,双边,跨栏,漂流瓶为mouseover和流媒体为click 字符类型(必填) 重要 用于区分不同类型广告*/
+		    }
+	},
+	{"pdps":"PDPS000000025852",
+		    "params":{
+			"type":"floatads",/*单边*/
+		        "src":[["http://d1.leju.com/ia/2012/10/11/50767232dad52.swf","http://d1.leju.com/ia/2012/11/06/5098741dd052eimg.jpg"]],
+			"attributes":[[{             /*数组为二维数组，与漂流瓶的区别*/
+				"width":"25",			/*广告小图宽度 数值类型/字符类型(必填)*/
+				"height":"300",			/*广告小图高度 数值类型/字符类型(必填)*/
+				"top":"60",			/*广告顶部距离 数值类型/字符类型(必填)*/
+				"left":"0",			/*广告左偏移 数值类型/字符类型(选填)* 与right互斥 如果填写了right,left为0或"" 则单边显示在右侧*/
+				"right":"5",			/*广告右偏移 数值类型/字符类型(选填)* 与left互斥 如果填写了left,right为0或"" 则单边显示在左侧*/
+				"bottom":""			/*此属性对于单边无用 代码不会获取*/
+			},{
+				"width":"100",			/*广告大图宽度 数值类型/字符类型(必填)*/
+				"height":"300",			/*广告大图高度 数值类型/字符类型(必填)*/
+				"top":"60",			/*此属性与前面一致否则获取前一个的top*/
+				"left":"",			/*此属性与前面一致否则获取前一个的left*/
+				"right":"5",			/*此属性与前面一致否则获取前一个的right*/
+				"bottom":""			/*此属性对于单边无用 代码不会获取*/
+			}]],
+		        "link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+		        "delay":1000,				/*延时显示毫秒 数值类型(选填:默认1000) */
+		        "playtime":5,				/*中间通栏显示的时间 单位秒(选填:为0或无属性时默认5) */
+			"closebtn":true,			/*是否显示关闭按钮 布尔类型(选填:默认false) */
+			"zIndex":1,				/*层级 数值类型(为0或无此属性时默认9999) */
+			"eventType":"mouseover"			/*激活播放的事件单边,双边,跨栏,漂流瓶为mouseover和流媒体为click 字符类型(必填) 重要 用于区分不同类型广告*/
+		    }
+	},
+	{"pdps":"PDPS000000025852",
+		    "params":{
+				"type":"floatads",/*漂流瓶*/
+			    "src":[["http://jiaju.sina.com.cn/images/index13Q1/ads/11.jpg","http://jiaju.sina.com.cn/images/index13Q1/ads/22.jpg"]],
+				"attributes":[{ 				/*属性参考单边 注意此处与单边的区别 单边为[[...]] 漂流瓶为[...]*/
+					"width":"150",			/*广告小图宽度 数值类型/字符类型(必填)*/
+					"height":"150",			/*广告小图高度 数值类型/字符类型(必填)*/
+					"top":"",			/*此属性对漂流瓶无用 代码不会获取*/
+					"left":"5",			/*左偏移 数值类型/字符类型(必填)**/
+					"right":"",			/*此属性对漂流瓶无用 代码不会获取*/
+					"bottom":"0" 			/*漂流瓶的底部偏移 数值类型/字符类型(必填)*/
+				},{
+					"width":"300",			/*广告大图宽度 数值类型/字符类型(必填)*/
+					"height":"150",			/*广告大图高度 数值类型/字符类型(必填)*/
+					"top":"",			/*此属性对漂流瓶无用 代码不会获取*/
+					"left":"150",			/*与前一个一致 否则获取前一个的设置*/
+					"right":"",			/*此属性对漂流瓶无用 代码不会获取*/
+					"bottom":"0" 			/*此属性对漂流瓶有用 可以设置漂流瓶的底部偏移 与前面的一致获取前面的bottom*/
+				}],
+			    "link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+			    "delay":1000,
+			    "playtime":5,
+				"closebtn":true,
+				"zIndex":1,
+				"eventType":"mouseover"			/*激活播放的事件单边,双边,跨栏,漂流瓶为mouseover,流媒体为click 字符类型(必填) 重要 用于区分不同类型广告*/
+		    }
+	},
+	{"pdps":"PDPS000000025852",
+		    "params":{
+			"type":"floatads",/*流媒体*/
+		        "src":[["http://d1.leju.com/201112/21/383974_200200.swf","http://d1.leju.com/ia/2012/11/06/509873f466251img.jpg"]],
+			"attributes":[{
+				"width":"200",			/*大图宽 数值类型/字符类型(必填)*/
+				"height":"200",			/*大图高 数值类型/字符类型(必填)*/
+				"top":"",			/*此属性对流媒体无用 代码不会获取*/
+				"left":"",			/*大图位置固定在页面中央 代码不会获取*/
+				"right":"",			/*大图位置固定在页面中央 代码不会获取*/
+				"bottom":"0"			/*大图位置固定在页面中央 代码不会获取*/
+			},{
+				"width":"20",			/*小图宽 数值类型/字符类型(必填)*/
+				"height":"200",			/*小图宽 数值类型/字符类型(必填)*/
+				"top":"",			/*此属性对流媒体无用 代码不会获取*/
+				"left":"",			/*缩小后小图的位置 与right互斥 */
+				"right":"5",			/*缩小后小图的位置 与left互斥*/
+				"bottom":"150"			/*此属性对流媒体有用 可以设置漂流瓶的底部偏移*/
+			}],
+		        "link":"http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+		        "delay":1000,
+		        "playtime":5,    /*播放时间*/
+				"closebtn":true,
+				"zIndex":1,
+				"eventType":"click"			/*激活播放的事件单边,双边,跨栏,漂流瓶为mouseover,流媒体为click 字符类型(必填) 重要 用于区分不同类型广告*/
+		    }
+	}
+	{"pdps": "PDPS000000025852",
+		"position":"t01-1-1",
+		"params": {
+			"type": "banner",			/**楼盘定向示例,增加hid属性与页面上的ads.config.houseId匹配 包含则显示 有hid属性并不包含则不显示*/
+			"hid":["123","444","532","749"],	/*当前广告需要在哪些楼盘页面显示 有此属性时必须为数组 无此属性即直接显示*/
+			"src": "http://d3.sina.com.cn/201108/24/337397.swf",
+			"width": 950,
+			"height": "70",
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html"
+		}
+	},
+	{"pdps": "PDPS000000025852",
+		"params": {
+			"type": "newvideo",/*新视窗广告*/
+                        "flv": "http://www.sinaimg.cn/hs/lingyun/adsswf/demo.flv",/*广告地址*/
+			"imageurl":"http://www.sinaimg.cn/hs/lingyun/adsswf/videoImage.jpg",/*默认图片,固定写这个即可*/
+			"link": "http://sina.allyes.com/main/adfclick?db=sina&bid=300265,357885,363187&cid=0,0,0&sid=359090&advid=9462&camid=56933&show=ignore&url=http://bj.house.sina.com.cn/2011-07-14/36/9674.html",
+			"time":1000,/*鼠标移出后自动收回时间 数值类型 单位毫秒(选填:默认10000)*/
+			"delay":2000/*延迟的自动弹出时间 数值类型 单位毫秒(选填:默认5000)*/
+		}
+	},
+	{"pdps": "PDPS000000025854",
+		"position":"t01-1-1-1",
+		"params": {
+			"type":"addHTML",/**自定义HTML广告*/
+			"width": "950",
+			"height": "70",
+			"html": "<div style=\'background:#ccc;height:70px;width:100%\' ></div>"/*为了保证数据有效性,需要输出转义后的html代码*/
+		}
+	}									
+]}
+//轮循环随机部分  在加载cmslead后 加载广告数据前 页面上需有ads.config.lunxunList=['t02','t04','t05','t09']
+//楼盘定向部分   在加载cmslead后 加载广告数据前 页面上需有ads.config.houseId="123"  某个广告数据中应有楼盘定性"hid":["123","444","532","749"]
+//关键字搜索部分   页面搜索框需存在adsdefault="true" 自定义属性

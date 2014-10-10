@@ -1,0 +1,144 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<style>
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, textarea, p, blockquote, th, td{margin:0;padding:0}
+body {
+  font-family: "宋体",Tahoma,Helvetica,Arial,sans-serif;
+  font-size: 12px;
+}
+ol, ul {
+  list-style: none outside none;
+}
+		#json{height:500px;width:950px;}
+		.row-2 div {float:left}
+		.close_btn{height:25px;width:25px;background:url("http://www.sinaimg.cn/hs/sinahouse/images/adb.png") no-repeat scroll -23px -107px transparent}
+		body{ margin:0; padding:0;}
+		.hot_img { margin:0 auto; width:494px; height:290px; overflow:hidden; margin-bottom:6px;}
+		.txt {color: #A7A7A7;width: 340px;font-size: 12px;display: none;}
+	</style>
+	<script type="text/javascript" src="js/ads.js"></script>
+	<script type="text/javascript" src="js/sinaflash.js"></script>
+	<script type="text/javascript" src="js/swfobject.js"></script>
+	<script type="text/javascript" src="js/doU.js"></script>
+	<script type="text/javascript" src="js/class.js"></script>
+	<script type="text/javascript" src="js/events.js"></script>
+	<script type="text/javascript" src="js/sizzle.js"></script>
+	<script type="text/javascript" src="js/offset.js"></script>
+	<script type="text/javascript" src="js/show.js"></script>
+	<script type="text/javascript" src="js/text.js"></script>
+	<script type="text/javascript" src="js/multiRow.js"></script>
+	<script type="text/javascript" src="js/banner.js"></script>
+	<script type="text/javascript" src="js/exad.js"></script>
+	<script type="text/javascript" src="js/fp.js"></script>
+	<script type="text/javascript" src="js/rotator.js"></script>
+	<script type="text/javascript" src="js/marqueen.js"></script>
+	<script type="text/javascript" src="js/tearpage.js"></script>
+	<script type="text/javascript" src="js/plp.js"></script>
+	<script type="text/javascript" src="js/onetwo.js"></script>
+	<script type="text/javascript" src="js/banner_door.js"></script>
+	<script type="text/javascript" src="js/rotatordl.js"></script>
+	<script type="text/javascript" src="js/background.js"></script>
+	<script type="text/javascript" src="js/video.js"></script>
+	<script type="text/javascript" src="js/base.js"></script>
+	<script type="text/javascript" src="js/fullscreen.js"></script>
+	<script type="text/javascript" src="js/lmt.js"></script>
+	<script type="text/javascript" src="js/singledl.js"></script>
+	<script type="text/javascript" src="js/doubledl.js"></script>
+	<script type="text/javascript" src="js/window.js"></script>
+	<script type="text/javascript" src="js/bottombanner.js"></script>
+	<script type="text/javascript" src="js/parse.js"></script>
+	<script type="text/javascript" src="js/exfullscreen.js"></script>
+	<script type="text/javascript" src="js/keyword.js"></script>
+	<script type="text/javascript" src="js/slide.js"></script>
+	<script type="text/javascript" src="js/crown.js"></script>
+	<script type="text/javascript" src="js/closet.js"></script>
+	<script type="text/javascript" src="js/hjt.js"></script>
+	<script type="text/javascript" src="js/floatads.js"></script>
+	<script type="text/javascript" src="js/newvideo.js"></script>
+	<script type="text/javascript" src="js/addHTML.js"></script>
+	<script type="text/javascript" src="js/searchshow.js" charset="gb2312"></script>
+</head>
+<body>
+<div style="height:800px;width:950px;margin:0 auto;">sdsd</div>
+<!-- 	<input type="text" id="inputtext" style="width:800px;font:宋体;font-size: 16px"/>
+	<input type="button" onclick="deldiv();" value="显示广告" />	 -->
+	<input type="text" class="txt" onblur="if(this.value=='')this.value='请输入楼盘名或具体位置...'" onfocus="if(this.value=='请输入楼盘名或具体位置...')this.value=''" value="请输入楼盘名或具体位置..." adsdefault id="keyword" name="keyword" autocomplete="off" />		
+	
+	<textarea id="json" style="display:none"></textarea>		
+
+	<script type="text/javascript">
+		ads.config = {
+			host:'http://www.sinaimg.cn/',
+			lunxunList:["t01","t01","t01","t01","t01","t01"]
+		}; 
+		
+		var parentVairous = window.opener.window;
+		var inset = document.getElementById('json');
+		var dody = document.body;
+		var patt=new RegExp(/\pdps/i);
+		var inputtext = parentVairous.advertdata; //document.getElementById('inputtext').value;
+		if(inputtext){
+			var objarray = convertToArray(document.body.childNodes);
+			for(var i=0;i<objarray.length;i++){
+				  if(objarray[i].nodeName.toLowerCase() == 'div'){
+				  	dody.removeChild(objarray[i]);
+				  }
+			}
+				var insetdiv = document.createElement('div');
+				insetdiv.id = 'd01';
+                dody.insertBefore(insetdiv,inset);
+			//var dd =document.createElement('div');
+			//dd.style.height = "800px";
+			//dody.insertBefore(dd,inset);	
+			for(var i=1;i<30;i++){
+				var insetdiv = document.createElement('div');
+				insetdiv.id = 't'+(i>9?i:('0'+i));
+                dody.insertBefore(insetdiv,inset);				
+			}
+			for(var j=1;j<27;j++){
+				var insetdiv = document.createElement('div');
+				insetdiv.id = 'b'+(j>9?j:('0'+j));
+                dody.insertBefore(insetdiv,inset);				
+			}
+			for(var k=1;k<27;k++){
+				var insetdiv = document.createElement('div');
+				insetdiv.id = 'd'+(k>9?k:('0'+k));
+                dody.insertBefore(insetdiv,inset);				
+			}
+			ads.Data ={} ;
+			if(/\keyword/.test(inputtext)){
+				document.getElementById('keyword').style.display = "block";
+			}
+			if(patt.test(inputtext)){
+				var data = eval('(' + inputtext + ')');
+				if(data.length){
+					ads.formatData(data);
+				}else{
+					ads.formatData([data]);
+				}
+				ads.showAds(ads.Data)
+			}else{
+				alert('没有广告PDPS');
+			}
+		}else{
+			alert("输入为空！");
+		}
+	
+		function convertToArray(nodes){
+			var array = null;
+			try{
+				array = Array.prototype.slice.call(nodes,0);
+			}catch(error){
+				array = new Array();
+				for(var i=0;i<nodes.length;i++){
+					array.push(nodes[i]);
+				}
+			}
+			return array;
+		}		
+	</script>
+</body>
+</html>

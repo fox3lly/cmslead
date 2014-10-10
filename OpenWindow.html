@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>OpenWindow</title>
+		<meta name="author" content="leju" />
+		<script type="text/javascript">
+		var openurl = "RenWindow.html";
+		var advertdata;
+		var windowObj;
+		/**
+		 *弹出子窗口公共方法
+		 * @param url 窗口加载url
+		 * @param name 窗口名称
+		 * @param iWidth 窗口宽
+		 * @param iHeight 窗口高
+		 * @return  弹出一个居中窗口
+		 */
+		function openwindow(url,name,iWidth,iHeight){
+			advertdata = document.getElementById('advertdata').value;
+			url = url || openurl;
+			name = name ||'插入调查';
+			iWidth = iWidth || 962;
+			iHeight = iHeight || 600;
+			var iTop = (window.screen.availHeight-30-iHeight)/2; 
+			var iLeft = (window.screen.availWidth-10-iWidth)/2; 
+			windowObj = window.open(url,name,'height='+iHeight+',innerHeight='+iHeight+',width='+iWidth+',innerWidth='+iWidth+',top='+iTop+',left='+iLeft+',toolbar=no,menubar=no,scrollbars=yes,resizeable=no,location=no,status=no');
+		}
+		</script>
+	</head>
+	<body>
+		<textarea id="advertdata" rows="20" cols="50" style="overflow-x:hidden;margin-left: 10px"></textarea>
+		<input value="显示广告" type="button" onclick="openwindow();" />
+	</body>
+</html>
